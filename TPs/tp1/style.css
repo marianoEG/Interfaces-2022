@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgb(33 37 41);
+}
+
+.navbar-brand {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+#noticia-principal {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-image: url(https://images.ole.com.ar/2022/09/14/4GrDbAT2n_1000x472__1.jpg#1663209148791);
+  background-size: cover;
+  min-height: 500px;
+}
+
+#noticia-p {
+  color: white;
+  text-decoration: none;
+}
+
+#noticia-p h1 {
+  font-size: 40px;
+}
+
+.card {
+  border-color: rgb(33 37 41);
+}
+
+#asd {
+  display: flex;
+  justify-content: space-between;
+}
+
+.espacio {
+  height: 50px;
+}
+
+#footer {
+  color: lightgrey;
+}
